@@ -1,0 +1,6 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+
+Title = "Theme Demo"
+theme="ananke"
+

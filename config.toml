@@ -1,6 +1,13 @@
-baseURL = "http://example.org/"
+baseURL = "https://miltonjacomini.github.io/demo-blog/"
 languageCode = "en-us"
 
 Title = "Theme Demo"
 theme="ananke"
 
+publishDir = "docs"
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
